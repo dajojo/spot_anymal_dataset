@@ -12,4 +12,11 @@ dataset = fo.Dataset.from_dir(
     dataset_type=fo.types.COCODetectionDataset,
     data_path=data_path,
     labels_path=labels_path,
+    label_types=["segmentations"],
+
 )
+
+session = fo.launch_app(dataset)
+
+while True:
+	print("")

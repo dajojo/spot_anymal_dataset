@@ -1,0 +1,9 @@
+/Users/dajo/Documents/GitHub/spot_anymal_dataset/annotated_datasets/final/val/images/77jzMIpKuLlUxrrA.png
+/Users/dajo/Documents/GitHub/spot_anymal_dataset/annotated_datasets/final/val/images/76ObRvMgslDYIYHB.png
+/Users/dajo/Documents/GitHub/spot_anymal_dataset/annotated_datasets/final/val/images/vAjC3lfuNMtNDXJV.png
+/Users/dajo/Documents/GitHub/spot_anymal_dataset/annotated_datasets/final/val/images/3ZmNyGdTWJx34KS1.png
+/Users/dajo/Documents/GitHub/spot_anymal_dataset/annotated_datasets/final/val/images/KMPDpLQtwaTZgFMc.png
+/Users/dajo/Documents/GitHub/spot_anymal_dataset/annotated_datasets/final/val/images/TyoZHIApLFfOUEgf.png
+/Users/dajo/Documents/GitHub/spot_anymal_dataset/annotated_datasets/final/val/images/4OfxH8ka28lsAYT3.png
+/Users/dajo/Documents/GitHub/spot_anymal_dataset/annotated_datasets/final/val/images/SL5CPjh9faI371Tm.png
+/Users/dajo/Documents/GitHub/spot_anymal_dataset/annotated_datasets/final/val/images/dhLVgkmZdQ0GqAS3.png

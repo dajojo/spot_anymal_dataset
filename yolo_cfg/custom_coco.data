@@ -1,8 +1,9 @@
 classes= 2
-train  = /home/pjreddie/data/coco/trainvalno5k.txt
-valid  = coco_testdev
-#valid = data/coco_val_5k.list
-names = data/coco.names
-backup = /home/pjreddie/backup/
+train  = spot_anymal_dataset/annotated_datasets/final/train/annotations/yolo/label.txt
+valid  = spot_anymal_dataset/annotated_datasets/final/val/annotations/yolo/label.txt
+names = spot_anymal_dataset/yolo_cfg/custom_coco.names
+saveweights = 100
+savelast 	= 50
+backup = spot_anymal_dataset/yolov3_results/
 eval=coco
 

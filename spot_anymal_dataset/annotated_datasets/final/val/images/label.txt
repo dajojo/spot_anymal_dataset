@@ -1,0 +1,9 @@
+spot_anymal_dataset/annotated_datasets/final/val/images/KMPDpLQtwaTZgFMc.png
+spot_anymal_dataset/annotated_datasets/final/val/images/77jzMIpKuLlUxrrA.png
+spot_anymal_dataset/annotated_datasets/final/val/images/3ZmNyGdTWJx34KS1.png
+spot_anymal_dataset/annotated_datasets/final/val/images/TyoZHIApLFfOUEgf.png
+spot_anymal_dataset/annotated_datasets/final/val/images/4OfxH8ka28lsAYT3.png
+spot_anymal_dataset/annotated_datasets/final/val/images/SL5CPjh9faI371Tm.png
+spot_anymal_dataset/annotated_datasets/final/val/images/dhLVgkmZdQ0GqAS3.png
+spot_anymal_dataset/annotated_datasets/final/val/images/76ObRvMgslDYIYHB.png
+spot_anymal_dataset/annotated_datasets/final/val/images/vAjC3lfuNMtNDXJV.png
